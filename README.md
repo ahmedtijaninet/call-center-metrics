@@ -1,7 +1,9 @@
 <h3>The code you have provided appears to be calculating a variety of metrics related to customer service agents, such as attendance rate, schedule adherence, and skillset proficiency. These metrics can be useful for understanding the performance of individual agents or for comparing the performance of different agents or teams. Some of the metrics you are calculating, such as average handle time and average wait time, can also be useful for understanding the customer experience and for identifying areas for improvement.</h3>
 
-<H4> data.csv content :</H4>
-
+<H4>
+  data.csv content :
+  
+</H4>
 <table>
   <tr>
 <th> ID agent</th>
@@ -56,8 +58,10 @@
 </table>
  
 ### Import necessary modules
-```python:import pandas as pd 
-import numpy as np```
+```python:
+import pandas as pd
+import numpy as np
+```
 
 ### Read in data
 
